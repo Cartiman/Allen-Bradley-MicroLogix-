@@ -1,0 +1,8 @@
+C:\OPC\DF1Write\bin\Debug\DF1Write.exe
+C:\OPC\DF1Write\bin\Debug\DF1Write.pdb
+C:\OPC\DF1Write\obj\x86\Debug\DF1Write.Form1.resources
+C:\OPC\DF1Write\obj\x86\Debug\DF1Write.Properties.Resources.resources
+C:\OPC\DF1Write\obj\x86\Debug\DF1Write.csproj.GenerateResource.Cache
+C:\OPC\DF1Write\obj\x86\Debug\DF1Write.exe
+C:\OPC\DF1Write\obj\x86\Debug\DF1Write.pdb
+C:\OPC\DF1Write\obj\x86\Debug\DF1Write.csprojResolveAssemblyReference.cache
