@@ -1,5 +1,5 @@
 Allen-Bradley-MicroLogix-
 =========================
-This Source Code for Allen-Bradley Micrologic
+This Source Code for Allen-Bradley MicroLogic
 
-By program-plc.blogspot.com
+and more information, visit to program-plc.blogspot.com
